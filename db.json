@@ -1,23 +1,11 @@
-"transactions":[
-  {
-    "value": 200,
-    "contact": {
-      "name": "Telma",
-      "accountNumer": 1234
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
-  },
-  {
-    "value": 120,
-    "contact": {
-      "name": "Geysa",
-      "accountNumer": 2345
-    }
-  },
-  {
-    "value": 340,
-    "contact": {
-      "name": "Breno",
-      "accountNumer": 9865
-    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
