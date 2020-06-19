@@ -20,6 +20,20 @@
         "name": "Breno",
         "accountNumer": 9865
       }
-    }
+    },
+    {
+      "value": 510,
+      "contact": {
+        "name": "Silvana",
+        "accountNumer": 2211
+      }
+    },
+    {
+      "value": 1200,
+      "contact": {
+        "name": "Pedro",
+        "accountNumer": 5578
+      }
+    }    
   ]
 }
