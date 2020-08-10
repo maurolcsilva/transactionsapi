@@ -1,39 +1,66 @@
 {
-  "transactions": [
+  "employees": [
     {
-      "value": 200,
-      "contact": {
-        "name": "Telma",
-        "accountNumer": 1234
-      }
+      "idfuncionario": 458786,
+      "name": "André Rizek",
+      "position": {
+        "lat": 45,
+        "long": 32
+      },
+      "department": "SUP OPER DE MÁQ PÁTIO TURMA B",
+      "role": "OPERADOR EQUIP INSTALAÇÕES III",
+      "place": "Controle do Mirante-SLS-Porto",
+      "firm": "VALE S/A",
+      "business unit": "Brasil Minerais Ferrosos",
+      "requests": [
+        {
+          "idrequest": 34567,
+          "area": "CORRETIVA B",
+          "date_start": "2020/05/12",
+          "date_finish": "2020/06/19",
+          "state": "open",
+          "reason": "Manutenção na área do B da pilha mal formada"
+        },
+        {
+          "idrequest": 44789,
+          "area": "CORRETIVA B",
+          "date_start": "2020/02/01",
+          "date_finish": "2020/03/29",
+          "state": "close",
+          "reason": "Manutenção nas máquinas de operação"
+        }
+      ]
     },
     {
-      "value": 120,
-      "contact": {
-        "name": "Geysa",
-        "accountNumer": 2345
-      }
-    },
-    {
-      "value": 340,
-      "contact": {
-        "name": "Breno",
-        "accountNumer": 9865
-      }
-    },
-    {
-      "value": 510,
-      "contact": {
-        "name": "Silvana",
-        "accountNumer": 2211
-      }
-    },
-    {
-      "value": 1200,
-      "contact": {
-        "name": "Pedro",
-        "accountNumer": 5578
-      }
-    }    
+      "idfuncionario": 125693,
+      "name": "Rafael Oliveira",
+      "position": {
+        "lat": 48,
+        "long": 44
+      },
+      "department": "SUP OPER DE MÁQ PÁTIO TURMA B",
+      "role": "OPERADOR EQUIP INSTALAÇÕES III",
+      "place": "Controle do Mirante-SLS-Porto",
+      "firm": "VALE S/A",
+      "business unit": "Brasil Minerais Ferrosos",
+      "requests": [
+        {
+          "idrequest": 12568,
+          "area": "CORRETIVA C",
+          "date_start": "2020/04/11",
+          "date_finish": "2020/09/19",
+          "state": "open",
+          "reason": "Manutenção na área do D, máquinas quebradas."
+        },
+        {
+          "idrequest": 96541,
+          "area": "CORRETIVA A",
+          "date_start": "2020/04/21",
+          "date_finish": "2020/05/29",
+          "state": "close",
+          "reason": "Manutenção de segurança."
+        }
+      ]
+    }
   ]
 }
