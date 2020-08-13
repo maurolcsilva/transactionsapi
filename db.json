@@ -2,6 +2,8 @@
   "employees": [
     {
       "idfuncionario": 458786,
+      "type":"empregado",
+      "contract_manager":"Antonio Santos Ferreira Neto",
       "name": "André Rizek",
       "position": {
         "lat": -2.562110,
@@ -33,6 +35,8 @@
     },
     {
       "idfuncionario": 125693,
+      "type":"terceirizado",
+      "contract_manager":"Antonio Santos Ferreira Neto",
       "name": "Rafael Oliveira",
       "position": {
         "lat": -2.561901,
